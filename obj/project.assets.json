@@ -3921,19 +3921,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jmartinezlopez/.nuget/packages/": {}
+    "/Users/Angelica/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmartinezlopez/BlogBackEndL/BlogBackEndL.csproj",
+      "projectUniqueName": "/Users/Angelica/Downloads/BlogBackEnd/BlogBackEndL.csproj",
       "projectName": "BlogBackEndL",
-      "projectPath": "/Users/jmartinezlopez/BlogBackEndL/BlogBackEndL.csproj",
-      "packagesPath": "/Users/jmartinezlopez/.nuget/packages/",
-      "outputPath": "/Users/jmartinezlopez/BlogBackEndL/obj/",
+      "projectPath": "/Users/Angelica/Downloads/BlogBackEnd/BlogBackEndL.csproj",
+      "packagesPath": "/Users/Angelica/.nuget/packages/",
+      "outputPath": "/Users/Angelica/Downloads/BlogBackEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jmartinezlopez/.nuget/NuGet/NuGet.Config"
+        "/Users/Angelica/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
